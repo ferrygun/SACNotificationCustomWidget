@@ -1,0 +1,152 @@
+{
+  "id": "com.fd.djaja.sap.sac.notificationlistitem",
+  "version": "0.0.2",
+  "name": "notificationListitem",
+  "description": "notificationListitem",
+  "newInstancePrefix": "notificationListitem",
+  "icon": "data:image/png;base64,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",
+  "vendor": "Ferry Djaja",
+  "eula": "",
+  "license": "",
+  "imports": [ "input-controls" ],
+  "webcomponents": [
+    {
+      "kind": "main",
+      "tag": "com-fd-djaja-sap-sac-notificationlistitem",
+      "url": "http://localhost/SAC/sacnotificationlistitem/notificationlistitem.js",
+      "integrity": "",
+      "ignoreIntegrity": true
+    },
+    {
+      "kind": "styling",
+      "tag": "com-fd-djaja-sap-sac-notificationlistitem-aps",
+      "url": "http://localhost/SAC/sacnotificationlistitem/aps_notificationlistitem.js",
+      "integrity": "",
+      "ignoreIntegrity": true
+    }
+  ],
+  "properties": {
+    "metadata": {
+      "type": "string",
+      "description": "For internal use",
+      "default": ""
+    },
+    "title": {
+      "type": "string",
+      "description": "title",
+      "default": ""
+    },
+    "subtitle": {
+      "type": "string",
+      "description": "subtitle",
+      "default": ""
+    },
+    "icon": {
+      "type": "string",
+      "description": "icon",
+      "default": ""
+    },
+    "unit": {
+      "type": "string",
+      "description": "unit",
+      "default": ""
+    },
+    "footer": {
+      "type": "string",
+      "description": "footer",
+      "default": ""
+    }
+  },
+  "methods": {
+    "getTitle": {
+      "returnType": "string",
+      "description": "Get title",
+      "parameters": [],
+      "body": "return this.title;"
+    },
+    "setTitle": {
+      "description": "Set title",
+      "parameters": [
+        {
+          "name": "value",
+          "type": "string",
+          "description": "The new title"
+        }
+      ],
+      "body": "this.title = value;"
+    },
+    "getSubTitle": {
+      "returnType": "string",
+      "description": "Get subtitle",
+      "parameters": [],
+      "body": "return this.subtitle;"
+    },
+    "setSubTitle": {
+      "description": "Set subtitle",
+      "parameters": [
+        {
+          "name": "value",
+          "type": "string",
+          "description": "The new subtitle"
+        }
+      ],
+      "body": "this.subtitle = value;"
+    },
+    "getIcon": {
+      "returnType": "string",
+      "description": "Get icon",
+      "parameters": [],
+      "body": "return this.icon;"
+    },
+    "setIcon": {
+      "description": "Set icon",
+      "parameters": [
+        {
+          "name": "value",
+          "type": "string",
+          "description": "The new icon"
+        }
+      ],
+      "body": "this.icon = value;"
+    },
+    "getUnit": {
+      "returnType": "string",
+      "description": "Get unit",
+      "parameters": [],
+      "body": "return this.unit;"
+    },
+    "setUnit": {
+      "description": "Set unit",
+      "parameters": [
+        {
+          "name": "value",
+          "type": "string",
+          "description": "The new unit"
+        }
+      ],
+      "body": "this.unit = value;"
+    },
+    "getFooter": {
+      "returnType": "string",
+      "description": "Get footer",
+      "parameters": [],
+      "body": "return this.footer;"
+    },
+    "setFooter": {
+      "description": "Set footer",
+      "parameters": [
+        {
+          "name": "value",
+          "type": "string",
+          "description": "The new footer"
+        }
+      ],
+      "body": "this.footer = value;"
+    }
+  },
+  "events": {
+  	"onStart": {
+      "description": "Specify the SAC Script that shall be triggered when the Export process is started."
+    }
+  }
+}
