@@ -235,9 +235,9 @@
     function letsGo(that, changedProperties) {
         // Update this block with your publish/subscribe keys
         pubnub = new PubNub({
-            publishKey: "pub-c-b1e841cd-c9dd-4298-9d7c-b26eb0ac8725",
-            subscribeKey: "sub-c-bf57a2ca-226c-11eb-aa70-46ca21c7ec50",
-            uuid: "fdilt18"
+            publishKey: "REPLACE_WITH_YOUR_PUBLISHKEY",
+            subscribeKey: "REPLACE_WITH_YOUR_SUBSCRIBEKEY",
+            uuid: "REPLACE_WITH_RANDOM_STRING"
         })
         pubnub.addListener({
             status: function(statusEvent) {
